@@ -1,0 +1,24 @@
+body, html {
+  height: 100%;
+}
+
+h1 {
+color: red;
+font-family: 'Kanit', sans-serif;
+}
+
+
+body {
+  background-image: url('Img/Background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+
+
+
+ .navbar {
+    background-color: red;
+    height: 75px;
+  }
